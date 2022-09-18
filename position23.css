@@ -1,0 +1,6 @@
+#bird{
+    border: 1px solid red;
+    width: 600px;
+    height: 600px;
+    overflow: auto;
+}

@@ -1,0 +1,41 @@
+.parent{
+   border:1px solid red ;
+   padding: 20px;
+}
+
+.son{
+  border: 1px solid blue;
+  padding: 50px;
+  margin: 60px;
+  position: relative;
+}
+
+#child1{
+   border: 1px solid greenyellow;
+   width: 200px;
+   height: 200px ;
+   display: inline-block;
+   margin: 20px;
+}
+
+#child2{
+  border: 1px solid black;
+  width: 200px;
+  height: 200px ;
+  display: inline-block;
+  margin: 20px;
+  position: absolute;
+  
+  left: 651px;
+  
+}
+#child3{
+  border: 1px solid slateblue;
+  width: 200px;
+  height: 200px ;
+  display: inline-block;
+  margin: 20px;
+  position: relative;
+  top: 34px;
+  left: 116px;
+}
